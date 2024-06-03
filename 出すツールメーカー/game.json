@@ -45,7 +45,6 @@
 		"sandbox-runtime": "2",
 		"nicolive": {
 			"supportedModes": [
-				"single",
 				"multi"
 			]
 		},
